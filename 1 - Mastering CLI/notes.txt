@@ -1,0 +1,31 @@
+Creating a Directory/Folder
+mkdir[directory/folder_name]
+
+Clear the Terminal
+clear
+
+Remove a Directory/Folder
+rmdir[directory_name]
+
+Print/Present the current directory
+pwd
+
+List Command
+ls
+
+Change Directories
+cd[directory_path]
+
+Go back one directory 
+cd ..
+
+Create a file
+touch [file_name.extention]
+
+Remove file 
+rm[file._name.extension]
+
+Initalize Git 
+git init 
+
+Confi
